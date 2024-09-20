@@ -1,0 +1,17 @@
+input[type="email"] {
+  padding: 10px;
+  margin: 10px 0;
+  width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
